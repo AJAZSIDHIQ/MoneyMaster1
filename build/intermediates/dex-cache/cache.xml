@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android games\MoneyMaster\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_ebf3630f96d121437e343a1e4979c022db62f9b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android games\MoneyMaster\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_c03a00ed1ba35f9d566787e1343008866fe23463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android games\MoneyMaster\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-21.0.3_8e05a453ba9cf216535052b91bddbd13c4b41808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_3da33b6b20814c5ad9919fb802fc39c84001e035\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android games\MoneyMaster\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.5.0_f09263ffeecb352fd7e4feff996fb18fc90f51d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android games\MoneyMaster\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.5.0_9c8164c0e5f034fffbc6606d222af6e8e7a23d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android games\MoneyMaster\app\build\intermediates\exploded-aar\com.github.rey5137\material\1.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60dee46bb1ba50fb53b5d064694dc849246596fd">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.rey5137-material-1.1.1_fdbc06c7d7040f0950f7fe6471055598c5926ebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android games\MoneyMaster\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.5.0_2e34734e86aacd492ce6c728e172e8830997569f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.1.0\4ff6c33c920a399e4669cb0edd6668ef6dbe4988\MPAndroidChart-v2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ff6c33c920a399e4669cb0edd6668ef6dbe4988">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.1.0_5e2b9d8107182b4a4ee1bd3f6e1d04f5a04c9651\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android games\MoneyMaster\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.2.1_a3f74f8f1e3bc7d57b453604201381dfa6c846c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android games\MoneyMaster\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_c7e91907f3ebe291cfb92cb1c7449cc0f8658878\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android games\MoneyMaster\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="013e21b7422a339e87b8476e3614584d8130657a">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2f19c4a7b035c8342b69377ad47ff6bb3b2c92e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android games\MoneyMaster\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cb2addd01d03f628faa7e26a9ae187aa45a205de">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3dd1eebeb0ea900319a2fd88c1aa80311696aece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android games\MoneyMaster\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\android games\MoneyMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_7859ea866931cff81f02a2e3e822f18c98b25647\classes.dex" />
+    </item>
+
+</items>
